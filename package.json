@@ -1,0 +1,19 @@
+{
+  "name": "@haxtra/memory-cache",
+  "version": "0.9.0",
+  "description": "Memory based cache library, with two-way expiration, tags and events",
+  "homepage": "https://github.com/haxtra/memory-cache",
+  "repository": "github:haxtra/memory-cache",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "cache",
+    "caching",
+    "memory-cache",
+    "zero-dependency"
+  ],
+  "author": "Hax <hax@haxtra.com>",
+  "license": "MIT"
+}
